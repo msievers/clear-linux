@@ -11,3 +11,7 @@ sudo swupd bundle-add devpkg-libXt
 sudo swupd bundle-add devpkg-cups
 sudo swupd bundle-add devpkg-fontconfig
 ```
+
+## References
+
+* https://gist.github.com/mikroskeem/dfeda46abac5af40bd337f576b18e712
